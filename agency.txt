@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+8,Transportes Colectivos do Barreiro,https://www.tcbarreiro.pt,Europe/Lisbon,pt,212068592,https://www.portalviva.pt,geral@tcbarreiro.pt
