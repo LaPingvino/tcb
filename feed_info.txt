@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_contact_email,feed_contact_url
-,,pt-PORTUGAL,20240501,20241231,,
+Transportes Colectivos do Barreiro,https://www.tcbarreiro.pt,pt,20240601,20241231,ittcbarreiro@gmail.com,https://www.tcbarreiro.pt
